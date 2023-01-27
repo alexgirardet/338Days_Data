@@ -25,7 +25,7 @@ This will be subject to change.
 
 Books  | Status of Completion
 ------------- | -------------
-Mathematics for Machine Learning  | :white_check_mark:
+Mathematics for Machine Learning  | 
 Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | 
 Speech and Language Processing | 
 Designing Data-Intensive Applications | 
