@@ -26,44 +26,37 @@ This will be subject to change.
 Books  | Status of Completion
 ------------- | -------------
 Mathematics for Machine Learning  | :white_check_mark:
-Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | Content Cell
-Speech and Language Processing | Content Cell
-Designing Data-Intensive Applications | Content Cell
-Machine Learning Engineering | Content Cell
+Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | 
+Speech and Language Processing | 
+Designing Data-Intensive Applications | 
+Machine Learning Engineering | 
 
 ### Projects
 
 Books  | Field | Status of Completion
 ------------- | ------------- | -------------
-UK Real Estate Dashboard  | Data Engineering | Content Cell
-Finance NLP analyst  | NLP and ML Engineering | Content Cell
+UK Real Estate Dashboard  | Data Engineering | 
+Finance NLP analyst  | NLP and ML Engineering | 
 
 ### Bootcamps
 
 Bootcamp  | Status of Completion
 ------------- | -------------
-Data Engineering Zoomcamp  | Content Cell
-Machine Learning Zoomcamp  | Content Cell
+Data Engineering Zoomcamp  | 
+Machine Learning Zoomcamp  | 
 
 ### Research Papers
 
 Paper  | Week #
 ------------- | -------------
-Mathematics for Machine Learning  | Content Cell
-Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | Content Cell
-Speech and Language Processing | Content Cell
-Designing Data-Intensive Applications | Content Cell
-Machine Learning Engineering | Content Cell
+Paper Name | 1
 
 ### Articles
 
 Article  | Week # 
 ------------- | -------------
-Mathematics for Machine Learning  | Content Cell
-Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | Content Cell
-Speech and Language Processing | Content Cell
-Designing Data-Intensive Applications | Content Cell
-Machine Learning Engineering | Content Cell
+Article Name  | 1
+
 
 
 
