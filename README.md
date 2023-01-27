@@ -25,7 +25,7 @@ This will be subject to change.
 
 Books  | Status of Completion
 ------------- | -------------
-Mathematics for Machine Learning  | Content Cell
+Mathematics for Machine Learning  | :white_check_mark:
 Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | Content Cell
 Speech and Language Processing | Content Cell
 Designing Data-Intensive Applications | Content Cell
