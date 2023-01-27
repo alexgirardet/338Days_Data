@@ -21,6 +21,8 @@ I recognize that working a full-time job will make this challenge more difficult
 ## Outline
 This will be subject to change.
 
+### Books
+
 Books  | Status of Completion
 ------------- | -------------
 Mathematics for Machine Learning  | Content Cell
@@ -28,3 +30,10 @@ Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | Content Cel
 Speech and Language Processing | Content Cell
 Designing Data-Intensive Applications | Content Cell
 Machine Learning Engineering | Content Cell
+
+### Projects
+
+Books  | Field | Status of Completion
+------------- | -------------
+UK Real Estate Dashboard  | Data Engineering
+Finance NLP analyst  | NLP and ML Engineering
