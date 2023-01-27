@@ -33,7 +33,7 @@ Machine Learning Engineering | Content Cell
 
 ### Projects
 
-Books  | Field | Status of Completion
+Project  | Field | Status of Completion
 ------------- | -------------
-UK Real Estate Dashboard  | Data Engineering
-Finance NLP analyst  | NLP and ML Engineering
+UK Real Estate Dashboard  | Data Engineering | Content Cell
+Finance NLP analyst  | NLP and ML Engineering | Content Cell
