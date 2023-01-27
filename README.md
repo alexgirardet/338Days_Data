@@ -13,6 +13,7 @@ To accomplish this goal, the challenge will consist of several feats including:
 * Reading and summarizing 11 books (1 per month)
 * Completing 4 projects (1 per quarter)
 * Participating in 2 bootcamps
+* 3 Certificates
 * Reading and summarizing 48 research papers (1 per week)
 * Writing 48 articles (1 per week)
 
