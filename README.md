@@ -38,6 +38,13 @@ Books  | Field | Status of Completion
 UK Real Estate Dashboard  | Data Engineering | Content Cell
 Finance NLP analyst  | NLP and ML Engineering | Content Cell
 
+### Bootcamps
+
+Bootcamp  | Status of Completion
+------------- | -------------
+Data Engineering Zoomcamp  | Content Cell
+Machine Learning Zoomcamp  | Content Cell
+
 ### Research Papers
 
 Paper  | Week #
