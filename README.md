@@ -39,6 +39,14 @@ Books  | Field | Status of Completion
 UK Real Estate Dashboard  | Data Engineering | 
 Finance NLP analyst  | NLP and ML Engineering | 
 
+### Certificates
+
+Certificate  | Status of Completion | Proof
+------------- | ------------- | -------------
+Google Associate Cloud Engineer  | | 
+Google Cloud Professional Data Engineer | | 
+Google Cloud Professional Machine Learning Engineer  | | 
+
 ### Bootcamps
 
 Bootcamp  | Status of Completion
