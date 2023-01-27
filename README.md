@@ -33,13 +33,30 @@ Machine Learning Engineering | Content Cell
 
 ### Projects
 
-Books  | Status of Completion | Status of Completion
+Books  | Field | Status of Completion
 ------------- | ------------- | -------------
 UK Real Estate Dashboard  | Data Engineering | Content Cell
 Finance NLP analyst  | NLP and ML Engineering | Content Cell
 
+### Research Papers
 
-Project  | Field | Status of Completion
+Paper  | Week #
 ------------- | -------------
-UK Real Estate Dashboard  | Data Engineering | Content Cell
-Finance NLP analyst  | NLP and ML Engineering | Content Cell
+Mathematics for Machine Learning  | Content Cell
+Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | Content Cell
+Speech and Language Processing | Content Cell
+Designing Data-Intensive Applications | Content Cell
+Machine Learning Engineering | Content Cell
+
+### Articles
+
+Article  | Week # 
+------------- | -------------
+Mathematics for Machine Learning  | Content Cell
+Hands On Machine Learning with Scikit Learn, Keras and TensorFlow  | Content Cell
+Speech and Language Processing | Content Cell
+Designing Data-Intensive Applications | Content Cell
+Machine Learning Engineering | Content Cell
+
+
+
